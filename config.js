@@ -10,7 +10,7 @@ const nodes = config.nodes;
 
 const PoruOptions = {
   library: "discord.js",
-  defaultPlatform: "scsearch",
+  defaultPlatform: "ytsearch",
   plugins: [new Spotify({ clientID, clientSecret })]
 };
 
