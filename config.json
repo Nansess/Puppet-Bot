@@ -1,17 +1,17 @@
 {
   "spotify": {
-    "clientID": "4f4dcf0074be4ed78df7ddc11b382521",
-    "clientSecret": "0d09d5720f3047089d007272897a14d5"
+    "clientID": "clientID",
+    "clientSecret": "clientSecret"
   },
   "nodes": [
     {
       "name": "local-node",
       "host": "localhost",
       "port": 2333,
-      "password": "Is572@#ks728"
+      "password": "password"
     }
   ],
-  "botToken": "MTE0MTA2NDAyMjk1NTkyNTU0NA.GGOcfl.JuOZZdMYbtAw_UJrdmSdpXtM08Zl-XfkZy24mg",
+  "botToken": "bot_token",
   "prefix": "?",
   "ownerID": "399381056026836993"
 }
